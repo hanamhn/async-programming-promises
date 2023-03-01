@@ -7,16 +7,8 @@
     "dev": "nodemon ./index.js",
     "secondary": "cross-env PORT=3001 nodemon ./index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/taylonr/async-programming-promises.git"
-  },
-  "author": "Nate Taylor (taylonr@gmail.com)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/taylonr/async-programming-promises/issues"
-  },
-  "homepage": "https://github.com/taylonr/async-programming-promises#readme",
+  
+  
   "dependencies": {
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
